@@ -1,0 +1,96 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+#menu-bar {
+    margin-left: 76px;
+    margin-top: 44px;
+}
+
+a {
+    height: 29px;
+    width: 108px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    margin-right: 23px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#login-button {
+    height: 41px;
+    width: 130px;
+    border-radius: 20.5px;
+    background: #665AE1;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    border: 0;
+    cursor: pointer;
+}
+
+img {
+    height: 500px;
+    width: 568px;
+    margin: 217px 0px 183.08px 125px;
+    display:inline-block;
+    position: absolute;
+}
+
+#info-content {
+    display: inline-block;
+    position: absolute;
+    height: 122px;
+    width: 513px;
+    margin: 217px 148px 243px 779px;
+}
+
+#info-content h2 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+#info-content h3 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+    padding-bottom: 32px;
+}
+
+#info-content p {
+    width: 515px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    padding-bottom: 65px;
+    color: #848484;
+}
+
+#info-content button {
+    background: #ADFF00;
+    border: 0;
+    border-radius: 35.5px;
+    height: 64px;
+    width: 239px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    margin-top: 700px;
+    height: 207.05px;
+    width: 1440px;
+}
